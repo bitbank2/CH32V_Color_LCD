@@ -14,8 +14,8 @@ The code right now targets the ST7735S (160x80 Color LCD) on the CH32V203 w/20K 
 
 <b>Where does it go from here?</b><br>
 I'm going to continue to add features as needed for my projects and encourage feedback for feature requests and code submissions to continuously improve it. It can easily support other Sitronix LCDs (e.g. ST7789) with minor changes.<br>
-
 <br>
 ![CH32V_Color_LCD](/photo.jpg?raw=true "CH32V203+ST7735S")
 <br>
+
 
